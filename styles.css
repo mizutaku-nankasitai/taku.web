@@ -172,6 +172,7 @@ footer {
     header p {
         width: 100%;
         letter-spacing: 0.05em;
+        font-weight: bold;
     }
 
     .movie iframe {
